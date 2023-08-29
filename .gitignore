@@ -1,3 +1,10 @@
+# compiled version 
+public/*
+
+# Images 
+src/images/*
+src/photos/*
+
 # Logs
 logs
 *.log
